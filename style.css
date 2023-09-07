@@ -2,6 +2,7 @@ html {
   font-size: 10px;
   background: url('./cassette.avif') bottom center;
   background-size: cover;
+  touch-action: manipulation;
 }
 
 body,
